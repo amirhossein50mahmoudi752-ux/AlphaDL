@@ -1,0 +1,22 @@
+{
+  "job_id": "api_775a1b1d96d44df689ea692d",
+  "mode": "zip_split",
+  "file_url": "https://free-dl11.myalphadl.com/ccV-56fV6DZmmfydM8Yy0A/Devil.May.Cry.S02E06.720p.10bit.WEBRip.2CH.x265.PSA.AlphaDL.mkv",
+  "suggested_filename": "Devil.May.Cry.S02E06.720p.10bit.WEBRip.2CH.x265.PSA.AlphaDL.mkv",
+  "total_size_bytes": 139029045,
+  "created_at_utc": "2026-05-16T12:45:22.333563+00:00",
+  "zip_folder": "jobs/api_775a1b1d96d44df689ea692d/zip",
+  "zip_main_file": "Devil.May.Cry.S02E06.720p.10bit.WEBRip.2CH.x265.PSA.AlphaDL_split.zip",
+  "zip_parts": [
+    {
+      "name": "Devil.May.Cry.S02E06.720p.10bit.WEBRip.2CH.x265.PSA.AlphaDL_split.z01",
+      "path": "jobs/api_775a1b1d96d44df689ea692d/zip/Devil.May.Cry.S02E06.720p.10bit.WEBRip.2CH.x265.PSA.AlphaDL_split.z01",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "Devil.May.Cry.S02E06.720p.10bit.WEBRip.2CH.x265.PSA.AlphaDL_split.zip",
+      "path": "jobs/api_775a1b1d96d44df689ea692d/zip/Devil.May.Cry.S02E06.720p.10bit.WEBRip.2CH.x265.PSA.AlphaDL_split.zip",
+      "size_bytes": 44657485
+    }
+  ]
+}
